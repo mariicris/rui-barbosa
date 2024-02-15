@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+}
+body{
+    background-image: url(escola.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 20%;
+    height: 100%;
+}
+.botao{
+    background-position: center;
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 20px;
+    display: block;
+    cursor: pointer;
+}
