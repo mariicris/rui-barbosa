@@ -4,7 +4,7 @@ h1{
     color: black;
 }
 body{
-    background-image: url(escola.jpg);
+    background-image: url(turma-segurando-letras-da-palavra-ESCOLA.jpg)
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -19,4 +19,4 @@ body{
     padding: 10px 20px;
     display: block;
     cursor: pointer;
-}
+}-
