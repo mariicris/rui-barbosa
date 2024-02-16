@@ -15,8 +15,8 @@ button{
     padding: 10px 20px;
 }
 .botao{
-    background-color: blue;
-    color: aliceblue;
+    background-color: rgba(238, 255, 0, 0.747);
+    color: rgb(0, 0, 0);
     border: none;
     text-align: center;
     padding: 10px 20px;
