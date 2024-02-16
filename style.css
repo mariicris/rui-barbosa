@@ -5,6 +5,7 @@ h1{
 }
 body{
     background-image: url(turma-segurando-letras-da-palavra-ESCOLA.jpg);
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
