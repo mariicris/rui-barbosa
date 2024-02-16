@@ -4,19 +4,25 @@ h1{
     color: black;
 }
 body{
-    background-image: url(turma-segurando-letras-da-palavra-ESCOLA.jpg)
+    background-image: url(turma-segurando-letras-da-palavra-ESCOLA.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    width: 20%;
-    height: 100%;
+}
+button{
+    display: inline-block;
+    padding: 10px 20px;
 }
 .botao{
-    background-position: center;
     background-color: blue;
     color: aliceblue;
+    border: none;
     text-align: center;
     padding: 10px 20px;
     display: block;
     cursor: pointer;
-}-
+}
+ul{
+    font-size: 16px;
+    color: aliceblue;
+}
